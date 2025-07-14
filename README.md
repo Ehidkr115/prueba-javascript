@@ -1,16 +1,16 @@
-# 🔐 SPA Auth Guard con JavaScript Vanilla + Vite
+#  SPA Auth Guard con JavaScript Vanilla + Vite
 
 Este proyecto es una **Single Page Application (SPA)** construida con **JavaScript Vanilla** y **Vite**. Incluye un sistema de autenticación básico con `localStorage`, rutas protegidas y carga dinámica de vistas HTML.
 
-## 🚀 Características
+##  Características
 
-- ✅ Protección de rutas (Auth Guard)
-- 🔐 Simulación de login (usuario y contraseña)
-- 📄 Carga de vistas externas (HTML) con `fetch()`
-- 🧠 Lógica SPA sin frameworks
-- ⚡️ Rápido desarrollo con [Vite](https://vitejs.dev)
+-  Protección de rutas (Auth Guard)
+-  Simulación de login (usuario y contraseña)
+-  Carga de vistas externas (HTML) con `fetch()`
+-  Lógica SPA sin frameworks
+-  Rápido desarrollo con [Vite](https://vitejs.dev)
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ``` bash
     appVite/
@@ -34,13 +34,13 @@ Este proyecto es una **Single Page Application (SPA)** construida con **JavaScri
 ```
 
 
-## 🧪 Credenciales de prueba
+##  Credenciales de prueba
 
 - Usuario: `admin`
 - Contraseña: `1234`
 
 
-## 🔍 Rutas disponibles
+##  Rutas disponibles
 - #/ → Página principal protegida
 
 - #/dashboard → Dashboard privado
@@ -48,7 +48,7 @@ Este proyecto es una **Single Page Application (SPA)** construida con **JavaScri
 - #/login → Página de inicio de sesión
 
 
-## 📌 Requisitos
+##  Requisitos
 - Node.js >= 16
 
 - Navegador moderno compatible con módulos ES
