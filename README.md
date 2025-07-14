@@ -8,7 +8,7 @@ Este proyecto es una **Single Page Application (SPA)** construida con **JavaScri
 -  Simulación de login (usuario y contraseña)
 -  Carga de vistas externas (HTML) con `fetch()`
 -  Lógica SPA sin frameworks
--  Rápido desarrollo con [Vite](https://vitejs.dev)
+
 
 ##  Estructura del proyecto
 
@@ -34,10 +34,7 @@ Este proyecto es una **Single Page Application (SPA)** construida con **JavaScri
 ```
 
 
-##  Credenciales de prueba
 
-- Usuario: `admin`
-- Contraseña: `1234`
 
 
 ##  Rutas disponibles
